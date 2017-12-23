@@ -13,8 +13,8 @@ public class NumberWizard : MonoBehaviour
         StartGame();
 	}
 
-    // Update is called once per frame yrdy
-	void Update () // this is odd
+    // Update is called once per frame
+	void Update ()
 	{
 
 	    if (Input.GetKeyDown("up"))
