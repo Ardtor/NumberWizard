@@ -2,7 +2,7 @@
 
 public class NumberWizard : MonoBehaviour
 {
-    int max; 
+    int max;
     int min;
     int guess;
 
